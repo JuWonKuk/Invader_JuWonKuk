@@ -1,5 +1,5 @@
 # Invader
-complie :
+compile :
 
 invader3->
 
