@@ -110,7 +110,7 @@ int main()
 					//pObj->m_nFSM =1;
 					if(pObj->m_nFSM == 0) {
 						pObj->pfFire(pObj,gPlayerObject.m_fXpos,gPlayerObject.m_fYpos,
-						15,0,-1,3.0);
+						20,0,-1,2.0);
 						break;
 					}
 				 }
